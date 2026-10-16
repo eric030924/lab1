@@ -1,0 +1,26 @@
+bin/
+lib/*.o
+lib/*.a
+lib/*.so
+lib/*.dylib
+gmon.out
+.DS_Store
+
+# Lab1 build files
+*.o
+*.a
+*.so
+*.dylib
+
+# Generated executables
+calc_test
+calc_static
+calc_shared
+calc_dynamic
+calc_profile
+assert_test
+
+# Profiling and debugging
+gmon.out
+core
+core.*

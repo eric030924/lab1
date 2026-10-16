@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "===== Star Pattern ====="
+
+for ((i=5; i>=1; i--))
+do
+    for ((j=1; j<=i; j++))
+    do
+        printf "*"
+    done
+
+    printf "\n"
+done

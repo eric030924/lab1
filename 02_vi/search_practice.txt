@@ -1,0 +1,5 @@
+Hello Ubuntu!
+This is my first vi practice.
+I am studying Ubuntu commands.
+Vi can edit existing files. 
+Hello Ubuntu!

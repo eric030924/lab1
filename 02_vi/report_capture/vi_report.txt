@@ -1,0 +1,5 @@
+Hello Ubuntu!
+This is a vi editor test.
+Ubuntu supports text editing.
+I am learning Ubuntu commands.
+Hello Ubuntu!

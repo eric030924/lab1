@@ -1,0 +1,5 @@
+Hello Linux!
+This is my first vi practice.
+I am studying Linux commands.
+Vi can edit existing files.
+Hello Linux!

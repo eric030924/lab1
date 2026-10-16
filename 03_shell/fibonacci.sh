@@ -1,0 +1,18 @@
+#!/bin/bash
+
+a=0
+b=1
+
+echo "===== Fibonacci Sequence ====="
+
+for ((i=0; i<10; i++))
+do
+    echo -n "$a "
+
+    let "next = a + b"
+
+    a=$b
+    b=$next
+done
+
+echo
